@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<INDIHOME OGAN KOMERING ULU>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
